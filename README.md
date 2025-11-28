@@ -78,7 +78,7 @@ curl -X POST http://localhost:9696/predict
 
 ---
 
-## 📈 Results
+## Results
 
 | Metric | Value |
 |--------|-------|
@@ -137,7 +137,7 @@ curl -X POST http://localhost:9696/predict
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 Python 3.13 • XGBoost • Scikit-learn • Flask • Docker • Pandas • NumPy
 
